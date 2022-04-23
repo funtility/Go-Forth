@@ -17,7 +17,7 @@
   - A player may decide to focus on improving a particular category of element and at the peak of their career gain access to one or more better recipies.
 - ## Player Progression
   - The player's character has a life span at the end of which the progression makes a step forward; a new phase.
-  - For each life span, the player must choose one of the following for their current character.
+  - For each life span, the player must choose one of the following that their next character will be in relationship to their current character.
     - **Heir** : Will receive all the current character's farms at the start of the next phase. But not their recipies or inventory.
     - **Apprentice** : Will receive all the current character's recipies at the start of the next phase but not their inventory or farms.
     - **Beneficiary** : Will receive all the current character's inventory at the start of the next phase but not their recipies or farms.
